@@ -1,4 +1,4 @@
-# Keras-examples
+# keras-examples
 
 Image vision examples using machine learning, including
 
