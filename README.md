@@ -24,7 +24,7 @@ Image vision examples using machine learning, including
 ...just upload to google/colab OR locally call
 `git clone https://github.com/BenjaminWegener/Keras-examples`
 
-## references
+## references & notes
 - channel attention mechanism [[paper]](https://arxiv.org/abs/1807.02758)
 - residual in residual architecture [[paper]](https://arxiv.org/abs/1505.04597)
 - subpixel convolution / pixelshuffle [[paper]](https://arxiv.org/abs/1609.05158)
