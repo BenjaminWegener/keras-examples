@@ -2,8 +2,8 @@
 
 Image vision examples using machine learning, including
 
- - superresolution
  - inpainting
+ - superresolution
  - deblurring
  
  All examples delivered as jupyter notebook and running on vanilla keras (with both plaidml/theano and tensorflow/google colab as backend).
@@ -14,6 +14,9 @@ Image vision examples using machine learning, including
 
 #### superresolution
 ![alt text](https://github.com/BenjaminWegener/keras-examples/raw/master/superresolution.png "superresolution result")
+
+#### deblurring
+![alt text](https://github.com/BenjaminWegener/keras-examples/raw/master/deblurring.png "deblurring result")
 
 ## to run...
 ...just upload to google/colab to run or locally call
