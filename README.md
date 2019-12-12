@@ -9,6 +9,8 @@ Image vision examples using machine learning, including
  All examples delivered as jupyter notebook and running on vanilla keras (with both plaidml/theano and tensorflow/google colab as backend).
 
 ## results
+(1. degraded image, 2. neural net output, 3. ground truth)
+
 #### inpainting
 ![alt text](https://github.com/BenjaminWegener/keras-examples/raw/master/inpainting.png "inpainting result")
 
